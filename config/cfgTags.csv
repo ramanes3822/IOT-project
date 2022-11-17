@@ -1,0 +1,4 @@
+CMP, TotalLoad,     Random.PsFloat1,     0.1
+_NA, TotalLoad2,    Random.PsState1,     999
+CMP, HoisePosition, Random.PsInteger1,   999
+_NA, Temprature,    Random.TimerInterval,999

@@ -1,0 +1,49 @@
+
+
+https://www.intowindows.com/how-to-install-windows-7-to-usb-external-hard-drive-must-read/
+https://lifehacker.com/how-to-run-a-portable-version-of-windows-from-a-usb-dri-1565509124
+
+bin\mysqld --initialize-insecure
+bin\mysqld --console
+bin\mysqld --install
+
+
+
+1455654534 Win7M9
+1455741481 Win10M9
+
+1488240773 Win7Z1
+1511582984 Win7Z2
+1497591133 Win7Z3
+1511880374 Win7Z4
+1705927273 Win7Z5
+1456573808 Win7Z6
+1488197611 Win7Z7
+
+1705938361 Win7QC10
+1724237138 Win7QC11
+1485969866 Win7QC12
+
+   http://172.21.30.72/apps/pages/qc.plc.data&crane=Z2
+Z1 http://172.21.30.72/apps/pages/qc.plc.data&ip=10.131.12.169
+Z3 http://172.21.30.72/apps/pages/qc.plc.data&ip=10.131.10.160
+
+Z5 http://172.21.30.72/apps/pages/qc.plc.data&ip=10.131.11.169
+Z6 http://172.21.30.72/apps/pages/qc.plc.data&ip=10.131.13.11
+Z7 http://172.21.30.72/apps/pages/qc.plc.data&ip=10.131.13.103
+
+
+http://172.21.95.210/rps/?app=live&crane=Z5&t=wide
+http://172.21.95.210/rps/?app=live&crane=Z6&t=wide
+http://172.21.95.210/rps/?app=live&crane=Z7&t=wide
+
+
+Master Clock, Time Sync IP
+server 172.21.52.12
+server 172.21.52.2
+server 172.21.45.220
+
+tracert 172.21.30.72
+
+Proxy Server bypass 172.*.*.*;192.*.*.*
+172.21.45.220 3128

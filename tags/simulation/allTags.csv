@@ -1,0 +1,4 @@
+TotalLoad,Random.PsFloat1
+TotalLoad2,Random.PsState1
+HoisePosition,Random.PsInteger1
+Temprature,Random.TimerInterval
